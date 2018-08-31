@@ -1,0 +1,8 @@
+{
+  "app": {
+    "port": "3002",
+    "origin": ["http://localhost:4200"],
+    "allowedMethods": ["POST", "GET"],
+    "allowedHeaders": ["content-type"]
+  }
+}
